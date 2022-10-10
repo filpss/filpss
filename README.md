@@ -14,7 +14,8 @@
   <img align="center" alt="Lipe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Lipe-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Lipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">  
+<img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+            
 </div>
   
   ##
