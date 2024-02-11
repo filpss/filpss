@@ -10,7 +10,7 @@
   <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lipe-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lipe-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-shap/c-sharp-original.svg">
-  <img align="center" alt="Lipe-mongodb" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)">
+  <img align="center" alt="Lipe-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lipe-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
   
