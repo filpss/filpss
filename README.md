@@ -1,12 +1,8 @@
-#### Bem vindo ao meu perfil! 👋
-
-</br>
+## Bem vindo ao meu perfil! 👋
 
 - 🔭 Atualmente, estou trabalhando com projetos fullstack.
 - 🌱 Atualmente, estou aprendendo Java, Spring e Angular.
 - ⚡ Apaixonado pelo universo geek.
-
-</br>
 
 #### Ferramentas e Tecnologias
 <div>
@@ -20,7 +16,7 @@
   <img align="center" alt="Lipe-Node" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-</br>
+
 
 #### Estatisticas
 <div>
