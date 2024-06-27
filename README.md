@@ -1,8 +1,8 @@
 ## Bem vindo ao meu perfil! 👋
 
-- 🔭 Atualmente, estou trabalhando com projetos fullstack.
-- 🌱 Atualmente, estou aprendendo Java, Spring e Angular.
-- ⚡ Apaixonado pelo universo geek.
+- 🛠️ Atualmente, estou trabalhando com projetos fullstack como freelancer.
+- 🌱 Estou desenvolvendo minhas habilidades em Python, FastAPI e Angular.
+- ⚡ Apaixonado por tecnologia e universo geek.
 
 #### Ferramentas e tecnologias
 <div>
