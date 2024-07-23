@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil! 👋
 
 - 🛠️ Atualmente, estou trabalhando com projetos fullstack como freelancer.
-- 🌱 Estou desenvolvendo minhas habilidades em Python, FastAPI e Angular.
+- 🐘 Estou desenvolvendo minhas habilidades em PHP e Laravel.
 - ⚡ Apaixonado por tecnologia e universo geek.
 
 #### Ferramentas e tecnologias
