@@ -6,21 +6,23 @@
 
 #### Ferramentas e tecnologias
 <div>
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">-
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">- -->
+<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">- -->
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"> &nbsp;
+<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">- -->
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> &nbsp;
 </div>
 
 #### Estatisticas
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filpss&layout=compact&langs_count=7&theme=tokyonight"/>
-<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 #### Contatos
