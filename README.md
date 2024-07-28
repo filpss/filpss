@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil! 👋
 
-- 🛠️ Atualmente, estou trabalhando com projetos fullstack como freelancer.
+- 🛠️ Atualmente, estou trabalhando em projetos fullstack como freelancer.
 - 🐘 Estou desenvolvendo minhas habilidades em PHP e Laravel.
 - ⚡ Apaixonado por tecnologia e universo geek.
 
