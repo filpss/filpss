@@ -9,7 +9,7 @@
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
 <!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp; -->
 <!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp; -->
-<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp; -->
+<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp; . -->
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
