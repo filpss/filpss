@@ -17,8 +17,8 @@
 
 #### Estatisticas
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filpss&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filpss&layout=donut&langs_count=7&theme=tokyonight"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/> -->
 </div>
 
 #### Contatos
