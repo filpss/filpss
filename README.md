@@ -1,15 +1,12 @@
 ## Bem vindo ao meu perfil! 👋
 
 - 🛠️ Atualmente, estou trabalhando em projetos fullstack como freelancer.
-- 🐘 Estou desenvolvendo minhas habilidades em PHP e Laravel.
-- ⚡ Apaixonado por tecnologia e universo geek.
+- 🐘 Estou desenvolvendo minhas habilidades em PHP.
+- ⚡ Apaixonado por tecnologia e ficção.
 
 #### Ferramentas e tecnologias
 <div>
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
-<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp; -->
-<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp; -->
-<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp; . -->
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
@@ -19,13 +16,15 @@
 
 #### Estatisticas
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filpss&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filpss&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
 </div>
 
 #### Contatos
 <div>
- <a href="filps._." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/filps._." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:filpsp2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
