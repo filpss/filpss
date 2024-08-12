@@ -1,19 +1,19 @@
 ## Bem vindo ao meu perfil! 👋
 
 - 🛠️ Atualmente, estou trabalhando em projetos fullstack como freelancer.
-- 🐘 Estou aprimorando minhas habilidades em PHP, Jquery, Docker e Postgre.
+- ☕ Estou aprimorando minhas habilidades em Java, Angular, Docker e MySQL.
 - ⚡ Apaixonado por tecnologia e ficção.
 
 #### Ferramentas e tecnologias
 <div>
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> &nbsp;
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
-  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg"> &nbsp;
-<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp; -->
-<!--   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> &nbsp; -->
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> &nbsp;
-    <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"> &nbsp;
 </div>
@@ -21,7 +21,7 @@
 #### Estatisticas
 <div>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filpss&layout=donut&langs_count=7&theme=tokyonight"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
 </div>
 
 #### Contatos
