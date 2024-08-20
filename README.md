@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil! 👋
 
-- 🛠️ Atualmente, estou trabalhando em projetos fullstack como freelancer.
+- 🛠️ Atualmente trabalho em projetos fullstack como freelancer.
 - ☕ Estou aprimorando minhas habilidades em Java, Angular, Docker e MySQL.
 - ⚡ Apaixonado por tecnologia e ficção.
 
