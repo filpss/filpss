@@ -1,13 +1,14 @@
 ## Bem vindo ao meu perfil! 👋
 
 - 🛠️ Atualmente trabalho como Analista fullstack e freelancer.
-- ☕ Estou aprimorando minhas habilidades em Ansible, conteinerização e administração de sistemas Linux.
+- ☕ Estou aprimorando minhas habilidades em Ansible, conteinerização e linguagem Go.
 - ⚡ Apaixonado por tecnologia e ficção.
 - 💻 Usuário de Linux e MacOS.
 
 #### Ferramentas e tecnologias
 <div>
   <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> &nbsp;
+  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/> &nbsp;
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/> &nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
