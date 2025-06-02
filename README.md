@@ -1,11 +1,10 @@
-## Bem vindo ao meu perfil! 👋
+## Welcome to my profile! 👋
 
-- 🛠️ Atualmente trabalho como Analista fullstack e freelancer.
-- ☕ Estou aprimorando minhas habilidades em Ansible, conteinerização e linguagem Go.
-- ⚡ Apaixonado por tecnologia e ficção.
-- 💻 Usuário de Linux e MacOS.
+- 🛠️ Currently, I work as a Full Stack Systems Analyst and freelance software developer.
+- ☕ I’m improving my skills in Ansible, Python, Ruby, and English.
+- ⚡ I’m passionate about technology.
 
-#### Ferramentas e tecnologias
+#### Tools and Technologies
 <div>
   <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> &nbsp;
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/> &nbsp;
@@ -20,17 +19,15 @@
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> &nbsp;
 </div>
 
-#### Estatisticas
+#### Statistics
 <div>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filpss&layout=donut&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filpss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
 </div>
 
-#### Contatos
+#### Contact
 <div>
-  <a href="https://discord.gg/filps._." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/pTTakYxx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:filpsp2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
