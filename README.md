@@ -1,7 +1,7 @@
 ## Welcome to my profile! 👋
 
 - 🛠️ Currently, I work as a Full Stack Systems Analyst and freelance software developer.
-- ☕ I’m improving my skills in Ansible, Python, Ruby, and English.
+- ☕ I’m improving my skills in Ansible, Python, Java, and English.
 - ⚡ I’m passionate about technology.
 
 #### Tools and Technologies
