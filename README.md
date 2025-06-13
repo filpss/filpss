@@ -8,8 +8,8 @@
 <div>
   <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> &nbsp;
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/> &nbsp;
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/> &nbsp;
-  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" /> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> &nbsp;
+  <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" /> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> &nbsp;
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;
   <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
